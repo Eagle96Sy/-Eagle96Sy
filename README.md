@@ -21,8 +21,8 @@ Talk to me about
 
 ###  📫 How to reach me:
  
-[![Linkedin Badge]([https://img.shields.io/badge/-AliHabe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-habeb-b99b00201/](https://www.linkedin.com/in/ali-habeb-b99b00201/))](linkedin.com/in/ali-habeb-b99b00201)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/mishra.shanu15/)
+[![Linkedin Badge]([linkedin.com/in/ali-habeb-b99b00201](https://www.linkedin.com/in/ali-habeb-b99b00201/))](linkedin.com/in/ali-habeb-b99b00201/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eagle6ray6@gmail.com)](mailto:eagle6ray6@gmail.com)
 
  
