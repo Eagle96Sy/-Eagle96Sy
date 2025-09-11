@@ -21,9 +21,9 @@ Talk to me about
 
 ###  📫 How to reach me:
  
-[![Linkedin Badge]([linkedin.com/in/ali-habeb-b99b00201](https://www.linkedin.com/in/ali-habeb-b99b00201/))](linkedin.com/in/ali-habeb-b99b00201/)
+[![Linkedin Badge]([linkedin.com/in/ali-habeb-b99b00201](https://www.linkedin.com/in/ali-habeb-b99b00201))](linkedin.com/in/ali-habeb-b99b00201)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eagle6ray6@gmail.com)](mailto:eagle6ray6@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eagle6ray6@gmail.com/)](mailto:eagle6ray6@gmail.com/)
 
  
 
